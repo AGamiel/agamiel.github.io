@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Installing the  SNORT and Setting up as a IDS and create custom Rules to detect Activities "
-image: /assets/img/snort-inspectors.jpg
+image: /assets/img/snor.jpg
 categories: [Tasks, Writeups]
 hidden: true
 permalink: /posts/snort-home-lab/
